@@ -21,7 +21,7 @@ plot4 <- function(){
   subsetted <- filter(cdata, DateTime >= as.Date("2007-02-01 00:00:00"), DateTime < as.Date("2007-02-03 00:00:00"))
   
   #start plotting data to a PNG file
-  png(file="plot3.png", width=480, height=480)
+  png(file="plot4.png", width=480, height=480)
   
   par(mfrow=c(2,2))
   
