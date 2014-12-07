@@ -1,4 +1,4 @@
-plot1 <- function(){
+plot2 <- function(){
 
   #Our overall goal here is simply to examine how household energy usage 
   #varies over a 2-day period in February, 2007. Your task is to reconstruct 
